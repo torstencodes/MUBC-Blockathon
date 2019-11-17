@@ -1,10 +1,5 @@
 pragma solidity >=0.4.21 <0.6.0;
 
-/**
- * Interface for KeyChain Smart Contract
- * @author Blockathon Team Lego
- * Date: 11/16/2019
- **/
 contract IKeyChain {
     
     ///VARIABLES///
