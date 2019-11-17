@@ -1,0 +1,22 @@
+{
+  "name": "mubc-blockathon-keychain",
+  "version": "1.0.0",
+  "description": "KeyChain Employee Record Proof of Concept",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torstencodes/MUBC-Blockathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torstencodes/MUBC-Blockathon/issues"
+  },
+  "homepage": "https://github.com/torstencodes/MUBC-Blockathon#readme"
+}
